@@ -1,0 +1,6 @@
+API Gateway 3000 
+Auth Service 3001
+Account Service 3002
+Transaction Service 3003
+Redis 6379 Cache and Session management
+Redis UI 8001
